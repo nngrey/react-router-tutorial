@@ -1,5 +1,5 @@
 React Router Tutorial
 =====================
 
-Exercises from https://github.com/reactjs/react-router-tutorial
+Practive with react router. Exercises from https://github.com/reactjs/react-router-tutorial
 
